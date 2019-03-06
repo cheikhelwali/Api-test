@@ -7,4 +7,4 @@ Pour faire tester un appel d'une Api.
 - Deux étapes :
 
 1. Connexion
-2. Affichage la liste de données
+2. Afficher la liste de données
