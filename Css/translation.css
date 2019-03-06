@@ -1,0 +1,37 @@
+#header{
+    
+    background-color: #001f3f;
+    color: azure;
+    padding: 10px 0 10px 5px;
+    margin-bottom: 30px;
+    margin-left: 0px;
+    
+} 
+ul #attribut{
+    color:#FF851B;
+   
+}
+div{
+        align-content: center;
+        margin-left:80px;
+    }    
+ul{
+    width:100%;
+    list-style-type: none;
+}
+li{
+    color:azure;
+    background:#001f3f;
+    float:left;
+    height:100px;
+    margin:10px;
+    width:500px;
+
+  font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+ letter-spacing:0.1em;
+ text-align:center;
+ text-transform: lowercase;
+ line-height: 145%;
+ font-size: 14pt;
+ font-variant: small-caps;
+}
